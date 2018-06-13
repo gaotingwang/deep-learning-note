@@ -1,5 +1,5 @@
 # 深度学习课程简介
-内容是学习吴恩达(Andrew Ng)老师的[deeplearning.ai](https://www.coursera.org/specializations/deep-learning)后的学习笔记，国内免费可以同步参看[网易云课堂中内容](https://mooc.study.163.com/university/deeplearning_ai#/c)。
+内容是学习吴恩达(Andrew Ng)老师的[deeplearning.ai](https://www.coursera.org/specializations/deep-learning)后的学习笔记，国内免费可以同步参看[网易云课堂中内容](https://mooc.study.163.com/university/deeplearning_ai#/c)，具体笔记内容点[这里](https://gaotingwang.github.io/deep-learning-note/)。
 
 - 在[第一门课](https://github.com/gaotingwang/deep-learning-note/tree/master/markdown/Class1)中，将学习如何建立神经网络（包含一个深度神经网络），以及如何在数据上面训练它们。最后将用一个深度神经网络进行辨认猫。
 
