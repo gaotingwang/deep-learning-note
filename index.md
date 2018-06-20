@@ -18,6 +18,7 @@ Deep-Learning
 1. [深度学习的实用层面](./html/2.1.html)
 2. [优化算法](./html/2.2.html)
 3. [超参数调试、Batch正则化和程序框架](./html/2.3.html)
+4. [TensorFlow学习](./html/2.4.html)
 
 ### 三、结构化机器学习项目
 
