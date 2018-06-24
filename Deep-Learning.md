@@ -24,11 +24,12 @@ Deep-Learning
 
 - [深层网络优化](./code/2.1.html)
 - [梯度算法优化](./code/2.2.html)
-- [TensorFlow](./code/2.3.html)
+- [TensorFlow实现神经网络](./code/2.3.html)
 
 ### 三、结构化机器学习项目
 
-
+1. [机器学习策略1](./html/3.1.html)
+2. [机器学习策略1](./html/3.2.html)
 
 ### 四、卷积网络
 
