@@ -37,6 +37,7 @@ Deep-Learning
 2. [深度卷积网络实例探究](./html/4.2.html)
 3. [目标检测](./html/4.3.html)
 4. [特殊应用：人脸识别和神经风格转换](./html/4.4.html)
+5. [Keras学习](./html/4.5.html)
 
 **代码总结：**
 
